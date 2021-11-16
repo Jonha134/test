@@ -1,0 +1,1 @@
+﻿Get-Process |out-file c:\temp\p.txt
